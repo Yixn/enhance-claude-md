@@ -1,0 +1,10 @@
+{
+  "name": "enhance-claude-md",
+  "version": "1.0.0",
+  "description": "Analyzes, generates, and enhances CLAUDE.md files for any project type",
+  "author": {
+    "name": "Daniel Samer"
+  },
+  "license": "MIT",
+  "keywords": ["claude-md", "documentation", "ai-instructions", "project-setup"]
+}
