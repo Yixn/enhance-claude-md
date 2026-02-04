@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "CLAUDE.md enhancement tools - analyze, generate, and improve project documentation",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -14,7 +14,7 @@
       "name": "enhance-claude-md",
       "source": "./plugins/enhance-claude-md",
       "description": "Analyzes, generates, and enhances CLAUDE.md files for any project type",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Daniel Samer"
       },
