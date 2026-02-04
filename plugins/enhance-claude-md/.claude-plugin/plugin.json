@@ -1,6 +1,6 @@
 {
   "name": "enhance-claude-md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyzes, generates, and enhances CLAUDE.md files for any project type",
   "author": {
     "name": "Daniel Samer"

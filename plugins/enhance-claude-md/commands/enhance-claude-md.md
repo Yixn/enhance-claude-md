@@ -6,7 +6,7 @@ argument-hint: [analyze|create|enhance]
 
 # Enhance CLAUDE.md
 
-Invoke the `linkster-general:claude-md-enhancer` skill to analyze, generate, or enhance CLAUDE.md files.
+Invoke the `enhance-claude-md:claude-md-enhancer` skill to analyze, generate, or enhance CLAUDE.md files.
 
 ## What This Command Does
 
@@ -36,10 +36,10 @@ When this command is invoked:
 
 ### 1. Load the Skill
 
-Use the Skill tool to invoke `linkster-general:claude-md-enhancer`:
+Use the Skill tool to invoke `enhance-claude-md:claude-md-enhancer`:
 
 ```
-Skill(linkster-general:claude-md-enhancer)
+Skill(enhance-claude-md:claude-md-enhancer)
 ```
 
 ### 2. Determine Operation Mode
@@ -70,4 +70,4 @@ Follow the skill's instructions to:
 
 If the skill fails to load:
 - Report the error to the user
-- Suggest running `/plugin update linkster-general@linkster-local`
+- Suggest checking the plugin installation with `/plugin list`
